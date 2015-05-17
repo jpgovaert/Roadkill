@@ -1,5 +1,5 @@
 ﻿Please see the Roadkill wiki for information on installing:
-- http://www.roadkillwiki.net/wiki/2/installing
+- http://www.roadkillwiki.net/wiki/2/installing f
 
 For upgrading from 1.7 to 2.0:
 - http://www.roadkillwiki.net/wiki/14/upgrading-from-version-17-to-20
